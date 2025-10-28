@@ -2,14 +2,14 @@
 
 ### I'm Marcos, a techie guy from Zaragoza, Spain.
 
-* 💼 I work as a Mobile Engineer at [Hiberus](https://www.hiberus.com).
-* 👀 I'm interested in everything related to software development, especially mobile apps.
-* 📚 I'm currently learning Jetpack Compose and some Cybersecurity essentials.
+* 💼 I work as a **Mobile Engineer** at [Hiberus](https://www.hiberus.com), specializing in native Android development.
+* 👀 I'm passionate about everything related to software development, particularly the **Android ecosystem** and native apps.
+* 📚 I'm currently learning **Kotlin Multiplatform** and some Cybersecurity essentials.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcoscg/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcoscgdev)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/marcoscgdev)
-[![Website](https://img.shields.io/badge/website-D32F2F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://marcoscg.com)
+[![Website](https://img.shields.io/badge/website-D32F2F?style=for-the-badge&logo=googlechrome&logoColor=white)](https:/marcos.is-a.dev)
 
 
 ## Tech Stack
