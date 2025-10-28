@@ -2,9 +2,12 @@
 
 ### I'm Marcos, a techie guy from Zaragoza, Spain.
 
-* 💼 I work as a **Mobile Engineer** at [Hiberus](https://www.hiberus.com), specializing in native Android development.
-* 👀 I'm passionate about everything related to software development, particularly the **Android ecosystem** and native apps.
-* 📚 I'm currently learning **Kotlin Multiplatform** and some Cybersecurity essentials.
+* 💼 **Mobile Engineer** at [Hiberus](https://www.hiberus.com) - Crafting robust Android apps with clean code.
+* 🏗️ **Architecture enthusiast** - Clean Architecture, MVVM, MVI, and SOLID principles advocate.
+* 🧑‍💻 **Passionate software developer** - Love everything about the Android ecosystem and native development.
+* 👀 Currently exploring **Kotlin Multiplatform** & Cybersecurity fundamentals.
+
+> "First, solve the problem. Then, write the code." - John Johnson
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcoscg/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcoscgdev)
